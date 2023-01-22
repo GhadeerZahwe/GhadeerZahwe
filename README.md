@@ -4,11 +4,15 @@
 
 ## 🧐 Personal View
 
-<p> I believe that that teamwork is very important because it helps us see the big picture when we’re building something, and that’s why I like to work with a team. It’s also why I love working in groups where everyone has a voice, and we all work together toward the same goal—to make the site better than you could ever do on your own. </p>
+<p> I believe that that teamwork is very important because it helps us see the big picture when we’re building something, and that’s why I like to work with a team. Also because working in a group let everyone has a voice, and we will be all working together toward the same goal to make the site better than you could ever do on your own. </p>
 
 ## 😇 About me
 
 I would describe myself as someone who is `responsible`, always `positive` and `hard-working`. In my free time, I enjoy painting landscapes on canvas. To me, painting is a form of therapy that reduces stress, increases amount of focus and improves my mood during the day.
+
+
+## 📃 Resume:
+https://drive.google.com/file/d/1HRBCVYpmvATY5KX7Jr0NvqO-YbfvUkUV/view?usp=sharing
 
 ## 🦾 Experience 
 **1. DgPad.Net Bootcamp (Training at ALBAB Creative Coworking)** 
@@ -71,9 +75,6 @@ I would describe myself as someone who is `responsible`, always `positive` and `
   <br/>
   🚩 English Fluent
 </p>
-
-## 📃 Resume:
-Available Upon Request
 
 ## 📫 Reach me:
 **zahweghadeer@gmail.com**
