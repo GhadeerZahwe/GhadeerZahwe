@@ -14,16 +14,6 @@ I would describe myself as someone who is `responsible`, always `positive` and `
 ## 📃 Resume:
 https://drive.google.com/file/d/1HRBCVYpmvATY5KX7Jr0NvqO-YbfvUkUV/view?usp=sharing
 
-## 🦾 Experience 
-**1. DgPad.Net Bootcamp (Training at ALBAB Creative Coworking)** 
-- Applying tutorials to understand the basics of ASP.NET Core web framework with practical and easy to understand examples
-- Building a content management system (CMS) for an online news website using  ASP.NET Core MVC, HTML, CSS, bootstrap and jQuery 
-- Github project link: https://github.com/GhadeerZahwe/ProjectASP 
-- Providing a report
-
-**2. Asp.Net Web Developer (Internship at Alpha Technology Group)** 
-![image](https://user-images.githubusercontent.com/88279980/213896742-6fac7ee4-234c-4901-b8c0-1a2fc4ca5397.png)
-
 ## 👨🏻‍💻 Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <!-- Jira -->
@@ -35,6 +25,16 @@ https://drive.google.com/file/d/1HRBCVYpmvATY5KX7Jr0NvqO-YbfvUkUV/view?usp=shari
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />  
 </p>
+
+## 🦾 Experience 
+**1. DgPad.Net Bootcamp (Training at ALBAB Creative Coworking)** 
+- Applying tutorials to understand the basics of ASP.NET Core web framework with practical and easy to understand examples
+- Building a content management system (CMS) for an online news website using  ASP.NET Core MVC, HTML, CSS, bootstrap and jQuery 
+- Github project link: https://github.com/GhadeerZahwe/ProjectASP 
+- Providing a report
+
+**2. Asp.Net Web Developer (Internship at Alpha Technology Group)** 
+![image](https://user-images.githubusercontent.com/88279980/213896742-6fac7ee4-234c-4901-b8c0-1a2fc4ca5397.png)
 
 ## 🛠️ Current situation
 
