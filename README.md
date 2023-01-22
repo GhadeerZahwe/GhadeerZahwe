@@ -58,7 +58,6 @@ I would describe myself as someone who is `responsible`, always `positive` and `
 
 ![image](https://user-images.githubusercontent.com/88279980/213896976-b73ea5a4-59d3-4d7e-b0b1-921d5a5701aa.png)
 
-
 ## 🌎 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ghadeer zahwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghadeer zahwe" height="30" width="40" /></a>
@@ -73,6 +72,8 @@ I would describe myself as someone who is `responsible`, always `positive` and `
   🚩 English Fluent
 </p>
 
-## 📫 Reach me:
+## 📃 Resume:
+Available Upon Request
 
+## 📫 Reach me:
 **zahweghadeer@gmail.com**
