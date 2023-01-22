@@ -8,7 +8,10 @@
 
 ## 😇 About me
 
-I would describe myself as someone who is `responsible`, always `positive` and `hard-working`. In my free time, I enjoy painting landscapes on canvas. To me, painting is a form of therapy that reduces stress, increases amount of focus and improves my mood during the day.
+I would describe myself as someone who is `responsible`, always `positive` and `hard-working`. In my free time, I enjoy painting landscapes on canvas. To me, painting is a form of therapy that reduces stress, increases amount of focus and improves my mood during the day. You can take a look on some of my canvas: 
+https://drive.google.com/file/d/13UIOgLnM3O7JBM1HE2hLDvHp3Qxvo4mm/view?usp=share_link </br>
+https://drive.google.com/file/d/1SSg-cLma2JyimsC-8VzDnurhvy9Eaj_T/view?usp=share_link</br>
+https://drive.google.com/file/d/1JmKVgACk1zwXSxLA9zjW7UFqxYjZtONh/view?usp=share_link
 
 
 ## 📃 Resume:
