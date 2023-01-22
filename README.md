@@ -1,6 +1,6 @@
 # Ghadeer-Zahwe
 
-<h3 align="justify"> Hello 👋, I’m Ghadeer. A graduated student with a BS in computer science. After graduation, I immediately engaged with DgPad.Net bootcamp training at ALBAB Creative Coworking which was for 2 months and then I started my 3 months internship as an `Asp.Net Web Developer` at Alpha Technology Group company. During these three months, I have been exposed to a great amount of knowledge and gained skills that contributed to the growth of my career so far. In the next stage, awaiting the opportunity to use all of the learned skills and information in the upcoming tasks and positions.</h3>
+<h3 align="justify"> Hello 👋, I’m Ghadeer. A graduated student with a BS in computer science. After graduation, I immediately engaged with DgPad.Net bootcamp training at ALBAB Creative Coworking which was for 2 months and then I started my 3 months internship as an Asp.Net Web Developer at Alpha Technology Group company. During these three months, I have been exposed to a great amount of knowledge and gained skills that contributed to the growth of my career so far. In the next stage, awaiting the opportunity to use all of the learned skills and information in the upcoming tasks and positions.</h3>
 
 ## 🧐 Personal View
 
