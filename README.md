@@ -4,7 +4,7 @@
 
 ## 🧐 Personal View
 
-<p> I believe that that teamwork is very important because it helps us see the big picture when we’re building something, and that’s why I like to work with a team. Also because working in a group let everyone has a voice, and we will be all working together toward the same goal to make the site better than you could ever do on your own. </p>
+<p> I believe that teamwork is very important because it helps us see the big picture when we’re building something, and that’s why I like to work with a team. Also because working in a group let everyone has a voice, and we will be all working together toward the same goal to make the site better than you could ever do on your own. </p>
 
 ## 😇 About me
 
