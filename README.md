@@ -38,10 +38,6 @@ https://drive.google.com/file/d/1HRBCVYpmvATY5KX7Jr0NvqO-YbfvUkUV/view?usp=shari
 
 **2. Asp.Net Web Developer (Internship at Alpha Technology Group)** 
 ![image](https://user-images.githubusercontent.com/88279980/213896742-6fac7ee4-234c-4901-b8c0-1a2fc4ca5397.png)
-
-## 🛠️ Current situation
-
- I’m currently working on building [Expense-Tracker application with Asp.Net Core MVC.](https://github.com/GhadeerZahwe/Expense-Tracker)
  
 ## 🏆 Achievements and Awards  
 - **Linkedin Certificate for completing .NET 7 Course**
