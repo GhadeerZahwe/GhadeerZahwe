@@ -1,6 +1,6 @@
 # Ghadeer Zahwe
 
-<h3 align="justify"> Hello 👋, I’m Ghadeer. A graduated student from Al-Maaref university with a BS in computer science. After graduation, I immediately engaged with DgPad.Net bootcamp training at ALBAB Creative Coworking which was for 2 months and then I started my 3 months internship as an Asp.Net Web Developer at Alpha Technology Group company. During these months, I have been exposed to a great amount of knowledge and gained skills that contributed to the growth of my career so far. In the next stage, awaiting the opportunity to use all of the learned skills and information in the upcoming tasks and positions.</h3>
+<h3 align="justify"> Hello 👋, I'm Ghadeer, a computer science graduate from Al-Maaref University. After graduation, I immediately engaged with DgPad.Net bootcamp training at ALBAB Creative Coworking which was for 2-months and then I completed a 3-months internship as an ASP.NET Core Web Developer at Alpha Technology Group. Following that, I continued to advance my skills and knowledge by undertaking another internship, this time as an ASP.NET MVC Web Developer at Auvia Group Company. During these months, I have been exposed to a great amount of knowledge and gained skills that contributed to the growth of my career so far. In the next stage, awaiting the opportunity to use all of the learned skills and information in the upcoming tasks and positions.</h3>
 
 ## 🧐 Personal View
 
@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1JmKVgACk1zwXSxLA9zjW7UFqxYjZtONh/view?usp=share
 
 
 ## 📃 Resume:
-https://drive.google.com/file/d/1HRBCVYpmvATY5KX7Jr0NvqO-YbfvUkUV/view?usp=sharing
+https://drive.google.com/file/d/1c_atQi5GkAu-IMC1oaTnVELBh7KMnkh-/view?usp=sharing
 
 ## 👨🏻‍💻 Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -36,8 +36,15 @@ https://drive.google.com/file/d/1HRBCVYpmvATY5KX7Jr0NvqO-YbfvUkUV/view?usp=shari
 - Github project link: https://github.com/GhadeerZahwe/ProjectASP 
 - Providing a report
 
-**2. Asp.Net Web Developer (Internship at Alpha Technology Group)** 
+**2. Asp.Net Core Web Developer (Internship at Alpha Technology Group)** 
 ![image](https://user-images.githubusercontent.com/88279980/213896742-6fac7ee4-234c-4901-b8c0-1a2fc4ca5397.png)
+
+**3. Asp.Net MVC Web Developer (Internship at Auvia Group)** 
+
+
+
+![CERTIFICATE](https://github.com/GhadeerZahwe/GhadeerZahwe/assets/88279980/bb4a1572-44e3-4f5d-b945-a9f7e0f4e266)
+
  
 ## 🏆 Achievements and Awards  
 - **Linkedin Certificate for completing .NET 7 Course**
