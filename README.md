@@ -1,7 +1,7 @@
 # Ghadeer Zahwe
 
-<h3 align="justify"> Hello 👋, 
-I'm Ghadeer, a computer science graduate from Al-Maaref University. After graduation, I immediately engaged with DgPad.Net bootcamp training at ALBAB Creative Coworking which was for 2-months and then I completed a 3-months internship as an ASP.NET Core Web Developer at Alpha Technology Group. Following that, I continued to advance my skills and knowledge by undertaking another internship, this time as an ASP.NET MVC Web Developer at Auvia Group Company. During these months, I have been exposed to a great amount of knowledge and gained skills that contributed to the growth of my career so far. In the next stage, awaiting the opportunity to use all of the learned skills and information in the upcoming tasks and positions.</h3>
+<h2 align="justify"> Hello 👋, 
+I'm Ghadeer, a computer science graduate from Al-Maaref University. After graduation, I immediately engaged with DgPad.Net bootcamp training at ALBAB Creative Coworking which was for 2-months and then I completed a 3-months internship as an ASP.NET Core Web Developer at Alpha Technology Group. Following that, I continued to advance my skills and knowledge by undertaking another internship, this time as an ASP.NET MVC Web Developer at Auvia Group Company. During these months, I have been exposed to a great amount of knowledge and gained skills that contributed to the growth of my career so far. In the next stage, awaiting the opportunity to use all of the learned skills and information in the upcoming tasks and positions.</h2>
 
 ## Github Stats 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GhadeerZahwe&count_private=true&theme=tokyonight&showicons=true)]()
