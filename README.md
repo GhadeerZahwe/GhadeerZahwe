@@ -46,9 +46,6 @@ https://drive.google.com/file/d/1dnNoKt90V9UaZkyZZNEkQ3K3HHAdv2Hl/view?usp=drive
 ![image](https://user-images.githubusercontent.com/88279980/213896742-6fac7ee4-234c-4901-b8c0-1a2fc4ca5397.png)
  
 ## 🏆 Achievements and Awards  
-- **Linkedin Certificate for completing .NET 7 Course**
-
-![image](https://user-images.githubusercontent.com/88279980/213896769-f932345c-2eed-42a7-a8e9-32d019c4ba6f.png)
 
 - **Linkedin Certificate for completing ASP.NET Core in .NET 6: Dependency Injection Course**
 
