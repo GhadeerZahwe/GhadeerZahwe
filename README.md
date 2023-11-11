@@ -44,13 +44,6 @@ https://drive.google.com/file/d/1dnNoKt90V9UaZkyZZNEkQ3K3HHAdv2Hl/view?usp=drive
 
 **2. Asp.Net Core Web Developer (Internship at Alpha Technology Group)** 
 ![image](https://user-images.githubusercontent.com/88279980/213896742-6fac7ee4-234c-4901-b8c0-1a2fc4ca5397.png)
-
-**3. Asp.Net MVC Web Developer (Internship at Auvia Group)** 
-
-
-
-![CERTIFICATE](https://github.com/GhadeerZahwe/GhadeerZahwe/assets/88279980/bb4a1572-44e3-4f5d-b945-a9f7e0f4e266)
-
  
 ## 🏆 Achievements and Awards  
 - **Linkedin Certificate for completing .NET 7 Course**
@@ -74,10 +67,6 @@ https://drive.google.com/file/d/1dnNoKt90V9UaZkyZZNEkQ3K3HHAdv2Hl/view?usp=drive
 - **Certificate of Achievement in Huawei ICT Competition-Outstanding Performance- 2020-2021 after completing 7 courses in different fields (WLAN, Security, Routing & Switching, 5G, Cloud Computing, AI, Storage) which we were examined in through preliminary and national stages. Also trained on different software to solve the lab exams (Huawei eNSP and FusionStorage).**
 
 ![image](https://user-images.githubusercontent.com/88279980/213896364-5105171c-29ea-48a7-94de-51e81b8f03aa.png)
-
-- **Certificate for completing the Cisco Networking Academy Introduction to Cybersecurity**
-
-![image](https://user-images.githubusercontent.com/88279980/213896976-b73ea5a4-59d3-4d7e-b0b1-921d5a5701aa.png)
 
 ## 🌎 Connect with me:
 <p align="left">
