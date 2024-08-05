@@ -7,10 +7,9 @@
 
 - :zap: In my free time, I enjoy painting landscapes on canvas
 
-## Number 8 of Top 10 Committers
+## Number 8 of Top GitHub Committers in Lebanon
 ![image](https://github.com/user-attachments/assets/bbaf200d-5e76-43eb-ae39-0f7914506723)
-![image](https://github.com/user-attachments/assets/57d0fb44-eaba-4fcb-b737-b9c5e9c4f8dc)
-
+![image](https://github.com/user-attachments/assets/b02f62d5-b77f-4292-969f-2fad66824a88)
   
 ## 👨🏻‍💻 Stats:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhadeerZahwe&show_icons=true&locale=en" alt="GhadeerZahwe" /></p>
