@@ -6,6 +6,11 @@
 - :seedling: Exploring artificial intelligence
 
 - :zap: In my free time, I enjoy painting landscapes on canvas
+
+## Number 8 of Top 10 Committers
+![image](https://github.com/user-attachments/assets/bbaf200d-5e76-43eb-ae39-0f7914506723)
+![image](https://github.com/user-attachments/assets/57d0fb44-eaba-4fcb-b737-b9c5e9c4f8dc)
+
   
 ## 👨🏻‍💻 Stats:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhadeerZahwe&show_icons=true&locale=en" alt="GhadeerZahwe" /></p>
